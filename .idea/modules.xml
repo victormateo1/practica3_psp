@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practica 3 UDP/Practica 3 UDP.iml" filepath="$PROJECT_DIR$/Practica 3 UDP/Practica 3 UDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Practica3.iml" filepath="$PROJECT_DIR$/.idea/Practica3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica3 TCP/Practica3 TCP.iml" filepath="$PROJECT_DIR$/Practica3 TCP/Practica3 TCP.iml" />
+    </modules>
+  </component>
+</project>
